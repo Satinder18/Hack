@@ -1,0 +1,22 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/hack/hack.srcs/sources_1/ip/vio_0/sim/vio_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vio_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/hack/hack.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/hack/hack.srcs/sources_1/new/Hack.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Hack
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/hack/hack.srcs/sources_1/new/clk190.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk190
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/hack/hack.srcs/sources_1/new/dbounce.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dbounce
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/hack/hack.srcs/sources_1/new/fun.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fun
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/hack/hack.srcs/sources_1/new/hack_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hack_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/hack/hack.srcs/sources_1/new/hack_datapath.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hack_datapath
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/hack/hack.srcs/sources_1/new/mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/hack/hack.srcs/sources_1/new/register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/hack/hack.srcs/sim_1/new/hack_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hack_test

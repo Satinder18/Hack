@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Product Version: Vivado v2018.2 (64-bit)                     -->
+<!--                                                              -->
+<!-- Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.        -->
+
+<hwsession version="1" minor="2">
+  <device name="xc7z020_1" gui_info="dashboard1=hw_vios[xc7z020_1/hw_vio_1=VIO_PROBES_1;]"/>
+  <ObjectList object_type="hw_device" gui_info="">
+    <Object name="xc7z020_1" gui_info="">
+      <Properties Property="FULL_PROBES.FILE" value="$_project_name_.runs/impl_1/Hack.ltx"/>
+      <Properties Property="PROBES.FILE" value="$_project_name_.runs/impl_1/Hack.ltx"/>
+      <Properties Property="PROGRAM.HW_BITSTREAM" value="$_project_name_.runs/impl_1/Hack.bit"/>
+      <Properties Property="SLR.COUNT" value="1"/>
+    </Object>
+  </ObjectList>
+  <ObjectList object_type="hw_probe" gui_info="">
+    <Object name="ans[15:0]" gui_info="hw_vios/hw_vio_1=1"/>
+    <Object name="douta[15:0]" gui_info="hw_vios/hw_vio_1=0"/>
+  </ObjectList>
+  <ObjectList object_type="hw_sysmon" gui_info="">
+    <Object name="XADC" gui_info="hw_vios=[TEMPERATURE=-65281;SCAN_RATE=1000;TRACK_TIME=1;]"/>
+  </ObjectList>
+  <ObjectList object_type="hw_vio" gui_info="">
+    <Object name="hw_vio_1" gui_info="hw_vios/hw_vio_1/TablePreference=5	585	Name	0	2147483647	15	112	112	Value	1	2147483647	15	277	277	Activity	2	2147483647	15	57	57	Direction	3	2147483647	15	71	71	VIO	4	2147483647	15	68	68			1	6	1	Name	Value	Activity	Direction	VIO"/>
+  </ObjectList>
+  <probeset name="hw project" active="false">
+    <probe type="vio_input" busType="bus" source="netlist" spec="VIO_INPUT_V2_RT">
+      <probeOptions Id="DebugProbeParams">
+        <Option Id="ACTIVITY_PERSISTENCE" value="SHORT"/>
+        <Option Id="DISPLAY_HINT" value=""/>
+        <Option Id="DISPLAY_VISIBILITY" value=""/>
+        <Option Id="HW_VIO" value="hw_vio_1"/>
+        <Option Id="INPUT_VALUE_RADIX" value="BINARY"/>
+        <Option Id="NAME.CUSTOM" value=""/>
+        <Option Id="NAME.SELECT" value="Long"/>
+        <Option Id="SOURCE" value="netlist"/>
+      </probeOptions>
+      <nets>
+        <net name="ans[15]"/>
+        <net name="ans[14]"/>
+        <net name="ans[13]"/>
+        <net name="ans[12]"/>
+        <net name="ans[11]"/>
+        <net name="ans[10]"/>
+        <net name="ans[9]"/>
+        <net name="ans[8]"/>
+        <net name="ans[7]"/>
+        <net name="ans[6]"/>
+        <net name="ans[5]"/>
+        <net name="ans[4]"/>
+        <net name="ans[3]"/>
+        <net name="ans[2]"/>
+        <net name="ans[1]"/>
+        <net name="ans[0]"/>
+      </nets>
+    </probe>
+    <probe type="vio_input" busType="bus" source="netlist" spec="VIO_INPUT_V2_RT">
+      <probeOptions Id="DebugProbeParams">
+        <Option Id="ACTIVITY_PERSISTENCE" value="SHORT"/>
+        <Option Id="DISPLAY_HINT" value=""/>
+        <Option Id="DISPLAY_VISIBILITY" value=""/>
+        <Option Id="HW_VIO" value="hw_vio_1"/>
+        <Option Id="INPUT_VALUE_RADIX" value="BINARY"/>
+        <Option Id="NAME.CUSTOM" value=""/>
+        <Option Id="NAME.SELECT" value="Long"/>
+        <Option Id="SOURCE" value="netlist"/>
+      </probeOptions>
+      <nets>
+        <net name="douta[15]"/>
+        <net name="douta[14]"/>
+        <net name="douta[13]"/>
+        <net name="douta[12]"/>
+        <net name="douta[11]"/>
+        <net name="douta[10]"/>
+        <net name="douta[9]"/>
+        <net name="douta[8]"/>
+        <net name="douta[7]"/>
+        <net name="douta[6]"/>
+        <net name="douta[5]"/>
+        <net name="douta[4]"/>
+        <net name="douta[3]"/>
+        <net name="douta[2]"/>
+        <net name="douta[1]"/>
+        <net name="douta[0]"/>
+      </nets>
+    </probe>
+  </probeset>
+</hwsession>

@@ -1,0 +1,16 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/FPGA/hack/hack.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+D:/FPGA/hack/hack.srcs/sim_1/new/hack_test.v,1638515571,verilog,,,,hack_test,,,,,,,,
+D:/FPGA/hack/hack.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1638513132,verilog,,D:/FPGA/hack/hack.srcs/sources_1/new/Hack.v,,blk_mem_gen_0,,,,,,,,
+D:/FPGA/hack/hack.srcs/sources_1/ip/vio_0/sim/vio_0.v,1638513984,verilog,,D:/FPGA/hack/hack.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,,vio_0,,,,,,,,
+D:/FPGA/hack/hack.srcs/sources_1/new/Hack.v,1638515486,verilog,,D:/FPGA/hack/hack.srcs/sources_1/new/clk190.v,,Hack,,,,,,,,
+D:/FPGA/hack/hack.srcs/sources_1/new/clk190.v,1638343131,verilog,,D:/FPGA/hack/hack.srcs/sources_1/new/dbounce.v,,clk190,,,,,,,,
+D:/FPGA/hack/hack.srcs/sources_1/new/dbounce.v,1638342998,verilog,,D:/FPGA/hack/hack.srcs/sources_1/new/fun.v,,dbounce,,,,,,,,
+D:/FPGA/hack/hack.srcs/sources_1/new/fun.v,1638118624,verilog,,D:/FPGA/hack/hack.srcs/sources_1/new/hack_control.v,,fun,,,,,,,,
+D:/FPGA/hack/hack.srcs/sources_1/new/hack_control.v,1638435245,verilog,,D:/FPGA/hack/hack.srcs/sources_1/new/hack_datapath.v,,hack_control,,,,,,,,
+D:/FPGA/hack/hack.srcs/sources_1/new/hack_datapath.v,1638194449,verilog,,D:/FPGA/hack/hack.srcs/sources_1/new/mux.v,,hack_datapath,,,,,,,,
+D:/FPGA/hack/hack.srcs/sources_1/new/mux.v,1638118528,verilog,,D:/FPGA/hack/hack.srcs/sources_1/new/register.v,,mux,,,,,,,,
+D:/FPGA/hack/hack.srcs/sources_1/new/register.v,1638194064,verilog,,D:/FPGA/hack/hack.srcs/sim_1/new/hack_test.v,,register,,,,,,,,
